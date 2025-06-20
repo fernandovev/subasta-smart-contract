@@ -18,14 +18,6 @@ Si una oferta válida se realiza en los últimos 10 minutos antes de que termine
 - Extender el tiempo si se oferta en los últimos minutos.
 - Reembolsar el excedente de ofertas pasadas durante la subasta.
 
-#Cómo desplegar
-
-1. Abrir [Remix](https://remix.ethereum.org/).
-2. Seleccionar el entorno "Injected Provider - MetaMask".
-3. Compilar el contrato (Solidity versión 0.8.20).
-4. En la parte de despliegue, escribir la duración de la subasta en minutos (por ejemplo, 30).
-5. Confirmar el despliegue con MetaMask.
-
 #Contrato en la red Sepolia
 
 Aquí se encuentra la dirección del contrato verificado:  
